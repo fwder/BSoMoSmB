@@ -1,4 +1,18 @@
-![logo](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/smsboom-logo.png)
+# 注意事项
+
+这是一个从 WhaleFell 的项目中 Fork 出来的非官方分支.
+
+### 为什么创建这个分支？
+
+看球不惯那个港独分子.
+
+### 以后会更新吗？
+
+名声大了就删，需要自己 Fork 就行。
+
+## 虽然觉得下面的免责声明屁用没有，但还是要说一句，不要有事没事打别人，你这样作死犯的法于我无关，我只是分享轮子的，我本心让你拿这个打骗子、打国外那些傻逼，你却拿来违法，你的行为管我屁事.
+
+# 原项目声明
 
 ![test](img/test2.gif)
 
